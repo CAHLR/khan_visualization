@@ -1,2 +1,5 @@
 # khan_visualization
-Scripts to 1) get images of timesteps 2) animate, and  3) viusalize with tooltip &amp; scrubber
+
+### Stats
+Inside the **stats** folder, there is a _Timing_TSNEs_ file that tests the performance of 3 different TSNE models. 
+
