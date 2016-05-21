@@ -18,7 +18,7 @@ The _get\_image_ file creates a png files of a specific timestep.
 * Change the **tstep** variable to get a different timestep
 * Change _output\_name_ to save file
 
-*** Animation
+### Animation
 The _animation_ file creates an animation using matplotlib.
 
 * Use the dimension reduced _txt_ file output from the _Timing_\TSNEs_ file 
